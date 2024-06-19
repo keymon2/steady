@@ -18,22 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "58d4f3f7e94726a1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3eac580d86b267c5",
+            "id": "f5d33472644c50b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "year/2024/daily/2024-06-15.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시작하기.md",
+                "file": "year/2024/daily/2024-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시작하기.md",
+                "file": "year/2024/daily/2024-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시작하기.md"
+                "file": "year/2024/daily/2024-06-15.md"
               }
             }
           }
@@ -160,8 +159,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "212eddf5c3961109",
+  "active": "f5d33472644c50b6",
   "lastOpenFiles": [
-    "시작하기.md"
+    "CS/트리와 그래프 차이.md",
+    "TCP란?.md",
+    "year/2024/daily/2024-06-15.md",
+    "CS/트랜잭션 의 성질.md",
+    "CS/qsort.md",
+    "CS/왜 nlogn 인가?.md",
+    "CS/BigO.md",
+    "resource",
+    "resource/Pasted image 20240615170915.png",
+    "시작하기.md",
+    "CS",
+    "year/2024/month/6월.md",
+    "year/2024/daily",
+    "year/2024",
+    "year/2024/month",
+    "무제 폴더",
+    "year/2024/2024년.md",
+    "year"
   ]
 }
