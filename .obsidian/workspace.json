@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year/2024/daily/2024-06-15.md",
+                "file": "CS/sql create 문과 update 문.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year/2024/daily/2024-06-15.md",
+                "file": "CS/sql create 문과 update 문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year/2024/daily/2024-06-15.md",
+                "file": "CS/sql create 문과 update 문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year/2024/daily/2024-06-15.md"
+                "file": "CS/sql create 문과 update 문.md"
               }
             }
           }
@@ -159,11 +159,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f5d33472644c50b6",
+  "active": "97dacff1d202e134",
   "lastOpenFiles": [
-    "CS/트리와 그래프 차이.md",
-    "TCP란?.md",
+    "year/2024/daily/2024-06-19.md",
+    "CS/sql create 문과 update 문.md",
+    "CS/Rdbms 쓰는 이유.md",
+    "CS/소켓 io.md",
+    "year/2024/month/6월.md",
     "year/2024/daily/2024-06-15.md",
+    "CS/TCP란?.md",
+    "resource/Pasted image 20240619221613.png",
+    "resource/Pasted image 20240619221115.png",
+    "CS/트리와 그래프 차이.md",
     "CS/트랜잭션 의 성질.md",
     "CS/qsort.md",
     "CS/왜 nlogn 인가?.md",
@@ -172,7 +179,6 @@
     "resource/Pasted image 20240615170915.png",
     "시작하기.md",
     "CS",
-    "year/2024/month/6월.md",
     "year/2024/daily",
     "year/2024",
     "year/2024/month",
